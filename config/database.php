@@ -6,7 +6,7 @@ $password = '';
 $database = 'stock' ;
 
 $db = new mysqli($hostname, $username, $password, $database);
-echo "database connected successfully";
+// echo "database connected successfully";
 
 ?>
 
